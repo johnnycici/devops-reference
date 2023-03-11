@@ -1,2 +1,3 @@
-# devops-reference
-General DevOps references that i use on a daily basis
+# DevOps Reference
+
+This is just a small repo of information that I do not want to lose. 
