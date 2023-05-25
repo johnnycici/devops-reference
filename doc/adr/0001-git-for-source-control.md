@@ -5,6 +5,7 @@ Date: 2023-05-25
 ## Status
 
 Status: Accepted on 2023-05-25  
+Superceded by [0000-record-architecture-decisions.md](0000-record-architecture-decisions.md) on 2023-05-25  
 Previous status: Proposal on 2023-05-25  
 
 

@@ -5,6 +5,7 @@ Date: 2023-05-25
 ## Status
 
 Status: Accepted on 2023-05-25
+Supersedes [0001-git-for-source-control.md](0001-git-for-source-control.md) on 2023-05-25  
 
 ## Context
 
